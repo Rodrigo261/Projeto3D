@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Java3D1_6">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/Java3D1_6" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Downloads/Java3D1_6/java3d-javadocs-all" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Downloads/Java3D1_6" recursive="false" />
+  </library>
+</component>

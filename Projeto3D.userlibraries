@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Java3D1_6">
+    <archive path="C:/Users/hg197/Downloads/Java3D1_6/j3dcore.jar" />
+    <archive path="C:/Users/hg197/Downloads/Java3D1_6/vecmath.jar" />
+    <archive path="C:/Users/hg197/Downloads/Java3D1_6/j3dutils.jar" />
+    <archive path="C:/Users/hg197/Downloads/Java3D1_6/jogamp-fat.jar" />
+    <archive path="C:/Users/hg197/Downloads/Java3D1_6/jogamp-fat-test.jar" />
+    <archive path="C:/Users/hg197/Downloads/Java3D1_6/java3d-javadocs-all.zip" />
+  </library>
+</eclipse-userlibraries>
+
